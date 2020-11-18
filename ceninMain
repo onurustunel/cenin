@@ -271,7 +271,7 @@
          },
          {
             "name":"Cenin Tar\u0131m",
-            "about":null,
+            "about":"Cenin Tarım Hakkında Bilgilere buraya eklenecektir.",
             "createdOn":"2020-11-15T18:59:09.9166667",
             "updatedOn":null,
             "projects":[
@@ -293,7 +293,7 @@
          },
          {
             "name":"Cengiz Turizm",
-            "about":null,
+            "about":"Cengiz Turizm hakkında bilgiler buraya eklenecektir.",
             "createdOn":"2020-11-15T18:59:45.98",
             "updatedOn":null,
             "projects":[
