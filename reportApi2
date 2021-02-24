@@ -1,0 +1,35 @@
+{
+    "reports": [
+        {
+            "name": "Cengiz İnşaat",
+            "projects": [
+                {
+                    "reportID": [ 
+                      
+                     {"Cengiz İnşaat": "asdas 230"},
+                     {"Cengiz İnşaat": "BMadsadW 230"}
+                      
+                      ]
+                    
+                   
+                }
+            ]
+        },
+        {
+            "name": "Ahen Maden",
+            "projects": [
+                {
+                    "reportID": [ 
+                      
+                     {"Ahen Maden": "asdas 230"},
+                     {"Ahen Maden": "BMadsadW 230"}
+                      
+                      ]
+                    
+                   
+                }
+            ]
+        }
+       
+    ]
+}
